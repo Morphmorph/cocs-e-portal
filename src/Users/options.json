@@ -1,0 +1,93 @@
+{
+    "gradeLevels":[
+        {"value":"1","label":"Kinder"},
+        {"value":"2","label":"Grade 1"},
+        {"value":"3","label":"Grade 2"},
+        {"value":"4","label":"Grade 3"},
+        {"value":"5","label":"Grade 4"},
+        {"value":"6","label":"Grade 5"},
+        {"value":"7","label":"Grade 6"},
+        {"value":"8","label":"Grade 7"},
+        {"value":"9","label":"Grade 8"},
+        {"value":"10","label":"Grade 9"},
+        {"value":"11","label":"Grade 10"}
+    ],
+    "sections": {
+        "1": [
+            {"value":"1","label":"Courage"},
+            {"value":"2","label":"Heroism"}
+        ],
+        "2": [
+            {"value":"3","label":"Joy"},
+            {"value":"4","label":"Love"}
+        ],
+        "3": [
+            {"value":"5","label":"Patience"},
+            {"value":"6","label":"Peace"}
+        ],
+        "4": [
+            {"value":"7","label":"Goodness"},
+            {"value":"8","label":"Kindness"}
+        ],
+        "5": [
+            {"value":"9","label":"Faithfulness"}
+        ],
+        "6": [
+            {"value":"10","label":"Discipline"},
+            {"value":"11","label":"Hope"}
+        ],
+        "7": [
+            {"value":"12","label":"Truthful"}
+        ],
+        "8": [
+            {"value":"13","label":"Honest"}
+        ],
+        "9": [
+            {"value":"14","label":"Humble"}
+        ]
+    },
+    "subjects": {
+        "1": [
+            {"value":"1","label":"English"},
+            {"value":"2","label":"Filipino"}
+        ],
+        "2": [
+            {"value":"3","label":"Mathematics"},
+            {"value":"4","label":"Science"}
+        ],
+        "3": [
+            {"value":"5","label":"MAPEH"},
+            {"value":"6","label":"APP"}
+        ],
+        "4": [
+            {"value":"7","label":"Computer programming 1"},
+            {"value":"8","label":"Foreign language"}
+        ],
+        "5": [
+            {"value":"9","label":"Computer programming 2"}
+        ],
+        "6": [
+            {"value":"10","label":"Elective 1"},
+            {"value":"11","label":"Elective 2"}
+        ],
+        "7": [
+            {"value":"10","label":"Capstone"},
+            {"value":"11","label":"Capstone 2"},
+            {"value":"12","label":"Capstone 3"}
+        ],
+        "8": [
+            {"value":"13","label":"English 2"},
+            {"value":"14","label":"English 3"},
+            {"value":"15","label":"English 4"}
+        ]
+    },
+    "advisers":[
+        {"value":"1","label":"Uzumaki Naruto"},
+        {"value":"2","label":"Son Goku"},
+        {"value":"3","label":"Monkey D. Luffy"},
+        {"value":"4","label":"John Wick"},
+        {"value":"5","label":"Peter Parker"},
+        {"value":"6","label":"Dominic Toretto"},
+        {"value":"7","label":"Bruce Wayne"}
+    ]
+}

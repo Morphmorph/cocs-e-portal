@@ -1,0 +1,79 @@
+*{
+  -ms-overflow-style: none;
+}
+::-webkit-scrollbar {
+  display: none;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.footer-content {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  border-bottom: 1px solid #F2B569;
+}
+
+.footer-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+@media (max-width: 1024px) {
+  .footer-content {
+      flex-direction: column;
+  }
+
+  .footer-item {
+      margin-bottom: 10px;
+  }
+}
+
+.fade-in {
+  opacity: 0;
+  transform: translateY(20px);
+  transition: opacity 1s ease, transform 1s ease;
+}
+
+.fade-in.show {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.container-hover:hover {
+  transform: scale(1.05); /* You can adjust the scale factor */
+  transition: transform 0.3s ease-in-out; /* You can adjust the transition duration and easing */
+}
+
+/* Hover effect for the item divs */
+.item-div:hover {
+  transform: scale(0.95);
+  transition: transform 0.3s ease-in-out;
+}
+
+/* Hover effect for the item images */
+.item-div:hover .item-image {
+  transform: scale(1.4); /* You can adjust the scale factor */
+  transition: transform 0.3s ease-in-out; /* You can adjust the transition duration and easing */
+}
+
+.circle {
+  width: 300px;
+  height: 300px;
+  border-radius: 50%; /* Make it a circle */
+  background-color: grey; /* Example background color */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+body, html {
+  margin: 0;
+  padding: 0;
+  max-height: none;
+  height: auto;
+  overflow-x: hidden;
+}
