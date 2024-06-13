@@ -1,6 +1,6 @@
 {
   "homepage": "https://Morphmorph.github.io/",
-  "name": "e-portal",
+  "name": "cocs-e-portal",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
