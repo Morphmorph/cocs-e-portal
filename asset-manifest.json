@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.da2b9523.css",
+    "main.js": "/static/js/main.ce4587ec.js",
+    "static/media/schlogo.webp": "/static/media/schlogo.05ffa8ebb926ad87681b.webp",
+    "static/media/attendance.webp": "/static/media/attendance.c38b62cfa59d3e31cbd8.webp",
+    "static/media/uccplogo.webp": "/static/media/uccplogo.2996c6462dbc2f38b3f4.webp",
+    "static/media/star.webp": "/static/media/star.23fc6b33ab6ee46f2662.webp",
+    "static/media/triggers.webp": "/static/media/triggers.1b4b0df5a92a169560da.webp",
+    "static/media/ledger.webp": "/static/media/ledger.6ccf6beb7868dcf4c1c8.webp",
+    "static/media/folder.webp": "/static/media/folder.a13c05f99113a5afc76b.webp",
+    "static/media/users.webp": "/static/media/users.ccc0aff09f27bf3d7e88.webp",
+    "static/media/checked.webp": "/static/media/checked.6269da4c19bf96631afb.webp",
+    "static/media/adduser.webp": "/static/media/adduser.7dcf17dfe8d972282039.webp",
+    "static/media/add.webp": "/static/media/add.cce92f26e34896081ec4.webp",
+    "index.html": "/index.html",
+    "main.da2b9523.css.map": "/static/css/main.da2b9523.css.map",
+    "main.ce4587ec.js.map": "/static/js/main.ce4587ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da2b9523.css",
+    "static/js/main.ce4587ec.js"
+  ]
+}
